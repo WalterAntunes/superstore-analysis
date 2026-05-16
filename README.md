@@ -52,7 +52,7 @@ O heatmap confirma o que o scatter já sinalizava: desconto tem correlação neg
 ```
 superstore-analysis/
 ├── data/
-│   └── Sample - Superstore.csv
+│   └── Superstore.csv
 ├── images/
 │   ├── 01_subcategoria.png
 │   ├── 02_desconto_lucro.png
